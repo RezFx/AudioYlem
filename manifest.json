@@ -3,19 +3,19 @@
   "short_name": "audio studio",
   "icons": [
     {
-      "src": "/https://rezfx.github.io/AudioYlem/images/icon-192x192.png",
+      "src": "https://rezfx.github.io/AudioYlem/images/icon-192x192.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "any"
     },
     {
-      "src": "/https://rezfx.github.io/AudioYlem/images/icon-512x512.png",
+      "src": "https://rezfx.github.io/AudioYlem/images/icon-512x512.png",
       "type": "image/png",
       "sizes": "512x512",
-        "purpose": "any"
+      "purpose": "any"
     }
   ],
-  "start_url": "/https://rezfx.github.io/AudioYlem/",
+  "start_url": "https://rezfx.github.io/AudioYlem/",
   "background_color": "#FFFFFF",
   "display": "standalone",
   "theme_color": "#000000",
