@@ -3,13 +3,13 @@
   "short_name": "audio studio",
   "icons": [
     {
-      "src": "https://rezfx.github.io/AudioYlem/images/icon-192x192.png",
+      "src": "https://rezfx.github.io/AudioYlem/icon-192x192.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "any"
     },
     {
-      "src": "https://rezfx.github.io/AudioYlem/images/icon-512x512.png",
+      "src": "https://rezfx.github.io/AudioYlem/icon-512x512.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any"
