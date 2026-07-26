@@ -1,0 +1,36 @@
+
+{
+  "name": "AudioYlem Music",
+  "short_name": "audio studio",
+  "icons": [
+    {
+      "src": "https://rezfx.github.io/AudioYlem/images/icon-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any"
+    },
+    {
+      "src": "https://rezfx.github.io/AudioYlem/images/icon-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
+    },
+    {
+      "src": "https://rezfx.github.io/AudioYlem/favicon-32x32.png",
+      "type": "image/png",
+      "sizes": "32x32",
+      "purpose": "any"
+    },
+    {
+      "src": "https://rezfx.github.io/AudioYlem/apple-touch-icon.png",
+      "type": "image/png",
+      "sizes": "180x180",
+      "purpose": "any"
+    }
+  ],
+  "start_url": "https://rezfx.github.io/AudioYlem/",
+  "background_color": "#FFFFFF",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "orientation": "portrait"
+}
