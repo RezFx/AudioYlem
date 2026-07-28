@@ -1,35 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/css" href="https://www.xml-sitemaps.com/css/sitemap.css"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
+  <!-- Home Page Principale (Rappresenta anche index.html) -->
   <url>
        <loc>https://rezfx.github.io/AudioYlem/</loc>
        <lastmod>2026-07-27T15:00:47+00:00</lastmod>
        <changefreq>daily</changefreq>
-       <priority>1.0000</priority>
+       <priority>1.00</priority>
   </url>
+
+  <!-- Versione Italiana della Home -->
   <url>
        <loc>https://rezfx.github.io/AudioYlem/ita_index.html</loc>
        <lastmod>2026-07-27T15:00:47+00:00</lastmod>
        <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
+       <priority>0.80</priority>
   </url>
+
+  <!-- Player Inglese -->
   <url>
        <loc>https://rezfx.github.io/AudioYlem/player.html</loc>
        <lastmod>2026-07-27T15:00:47+00:00</lastmod>
        <changefreq>daily</changefreq>
-       <priority>0.8000</priority>
+       <priority>0.80</priority>
   </url>
-  <url>
-       <loc>https://rezfx.github.io/AudioYlem/index.html</loc>
-       <lastmod>2026-07-27T15:00:47+00:00</lastmod>
-       <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
-  </url>
+
+  <!-- Player Italiano -->
   <url>
        <loc>https://rezfx.github.io/AudioYlem/ita_player.html</loc>
        <lastmod>2026-07-27T15:00:47+00:00</lastmod>
        <changefreq>daily</changefreq>
-       <priority>0.6400</priority>
+       <priority>0.80</priority>
   </url>
+
 </urlset>
