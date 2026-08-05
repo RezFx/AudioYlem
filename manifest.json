@@ -4,19 +4,19 @@
   "short_name": "audio studio",
   "icons": [
     {
-      "src": "https://rezfx.github.io/AudioYlem/favicon.png",
+      "src": "https://rezfx.github.io/favicon.png",
       "type": "image/png",
       "sizes": "48x48",
       "purpose": "any"
     },
     {
-      "src": "https://rezfx.github.io/AudioYlem/favicon-32x32.png",
+      "src": "https://rezfx.github.io/favicon-32x32.png",
       "type": "image/png",
       "sizes": "32x32",
       "purpose": "any"
     },
     {
-      "src": "https://rezfx.github.io/AudioYlem/apple-touch-icon.png",
+      "src": "https://rezfx.github.io/apple-touch-icon.png",
       "type": "image/png",
       "sizes": "180x180",
       "purpose": "any"
